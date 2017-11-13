@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EX5</string>
+    <string name="intro">this exercise will demonstrate the creation of Views and \n Layouts dynamically from code (insted from XML file)</string>
 </resources>
