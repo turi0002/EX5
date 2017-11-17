@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">EX5</string>
     <string name="intro">this exercise will demonstrate the creation of Views and \n Layouts dynamically from code (insted from XML file)</string>
+    <string name="sub_intro">This layout is totaly prepered during run-time</string>
+    <string name="cb1">First</string>
+    <string name="cb2">Second</string>
+    <string name="toggle_Text">click me to change layout below</string>
+    <string name="info2">this layout perpere beforehend but looded in run-time</string>
+    <string name="options">what option do you prefer</string>
+    <string name="option1">option1</string>
+    <string name="option2">option2</string>
+
 </resources>

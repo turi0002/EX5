@@ -2,4 +2,8 @@
 <resources>
 <item name="rl1" type="id"/>
     <item name="ll1" type="id"/>
+    <item name="ll2" type="id"/>
+    <item name="tv1" type="id"/>
+
+    <item name="frameL" type="id"/>
 </resources>
