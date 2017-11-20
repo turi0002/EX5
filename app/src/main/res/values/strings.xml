@@ -9,5 +9,6 @@
     <string name="options">what option do you prefer</string>
     <string name="option1">option1</string>
     <string name="option2">option2</string>
+    <string name="ed">option?</string>
 
 </resources>

@@ -60,10 +60,12 @@ public class MainActivity extends Activity {
             frameL.removeAllViews();
             frameL.addView(ll4);
         }
-            else
+            else {
+            LinearLayout ll3 = (LinearLayout) LayoutInflater.from(this).inflate(R.layout.layout2, null);
+            frameL.removeAllViews();
+            frameL.addView(ll3);
 
-
-
+        }
     }
 
     private int toPixel(int dp)
